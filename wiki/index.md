@@ -3,10 +3,10 @@ layout: home
 
 hero:
     name: 'Piano Tiles 2 Wiki'
-    tagline: 'Welcome to the Piano Tiles 2 Wiki!'
+    tagline: 'Bienvenido a la Wiki de Piano Tiles 2 en Español'
     actions:
         - theme: brand
-          text: Explore Wiki
+          text: Explorar Wiki
           link: /creating-your-first-piano-tiles-2-song
         - theme: alt
           text: GitHub
