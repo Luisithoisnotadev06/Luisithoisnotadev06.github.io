@@ -1,7 +1,17 @@
-# Piano Tiles 2 Wiki
+---
+layout: home
 
-Welcome to the Piano Tiles 2 Wiki! Here, you'll find information about the game itself, as well as resources for modding.
-
-## License
-
-Most of the content on this wiki is licensed under the [MIT license](https://opensource.org/licenses/MIT). For more details, please see [the license file](/LICENSE). In short, you're free to use the content however you like.
+hero:
+    name: 'Piano Tiles 2 Wiki'
+    tagline: 'Bienvenido a la Wiki de Piano Tiles 2 en Español'
+    actions:
+        - theme: brand
+          text: Explorar Wiki
+          link: /creating-your-first-piano-tiles-2-song
+        - theme: alt
+          text: GitHub
+          link: https://github.com/pianotiles2-community/wiki
+    image:
+        src: /mascot.png
+        alt: Piano Tiles 2
+---
